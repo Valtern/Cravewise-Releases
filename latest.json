@@ -1,11 +1,11 @@
 {
-  "version": "0.2.1",
-  "versionCode": 3,
-  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.2.1/cravewise-v0.2.1.apk",
-  "sha256": "004489326cf2c5161fb3b03cb962b77ff7c728fb0d8adb63ee44c998184396e6",
+  "version": "0.2.2",
+  "versionCode": 4,
+  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.2.2/cravewise-v0.2.2.apk",
+  "sha256": "0d9e585a40026078e930d69b8d3d5c14becc941c857cf82faaf70eac70f554ca",
   "releaseNotes": [
-    "Improved session recovery",
-    "Saved pantry and meal preferences",
-    "Reliable Android update checks and guided installation"
+    "Softer farm scenery and a brief welcome into CraveWise.",
+    "Smoother movement between Home, Pantry, Your Needs and Meals, with deliberate swipe navigation.",
+    "Improved saving feedback, keyboard focus and reduced-motion support."
   ]
 }
