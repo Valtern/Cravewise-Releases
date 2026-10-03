@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "versionCode": 2,
+  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.2.0/cravewise-v0.2.0.apk",
+  "sha256": "78686acde9959d2b31edd9fe51712541686ed89d30cefd4a91ce48d80725ab7f",
+  "releaseNotes": [
+    "Improved session recovery",
+    "Saved pantry and meal preferences",
+    "Android updates in Settings"
+  ]
+}
