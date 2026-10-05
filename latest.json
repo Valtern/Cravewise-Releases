@@ -1,11 +1,12 @@
 {
-  "version": "0.2.7",
-  "versionCode": 9,
-  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.2.7/cravewise-v0.2.7.apk",
-  "sha256": "ec3537599f5ad9bf7e89c33b1753ac57310a95aaedf4b34e3c4b2349fe1886e0",
+  "version": "0.2.8",
+  "versionCode": 10,
+  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.2.8/cravewise-v0.2.8.apk",
+  "sha256": "a9f8478f67b71d609845f07cb18c1840beafcc7b51545c72202838f41b5ed53e",
   "releaseNotes": [
-    "Use official Taiwan prices with safeguards against contradictory market quotes and traceable meal cost estimates."
+    "Official price fetching has conservative request limits and clearer audit evidence.",
+    "Grocery coverage and recommendation costs remain unchanged because the additional official retail data could not be verified."
   ],
-  "sourceCommit": "f1fa109b99749d51af6c70b4b0cc32283b13ac73",
-  "sourcePr": 20
+  "sourceCommit": "ceaf7b0deefdf191224289aed5fba09dee35cde4",
+  "sourcePr": 21
 }
