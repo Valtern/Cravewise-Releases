@@ -1,11 +1,12 @@
 {
-  "version": "0.2.4",
-  "versionCode": 6,
-  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.2.4/cravewise-v0.2.4.apk",
-  "sha256": "248ab02745b2a9c742f8f9b278b8771d7725b916f5e592ac55b3a82b8be0c6c4",
+  "version": "0.2.5",
+  "versionCode": 7,
+  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.2.5/cravewise-v0.2.5.apk",
+  "sha256": "963818b9b28aa7db9ab933d81581b715077d37e4db4325d440bd409f8e46e8f6",
   "releaseNotes": [
-    "A gentler approach into the farm after signing in, creating an account, or restoring your session.",
-    "Bottom navigation now blends into the farm scenery, with calmer page highlights and simpler pagination.",
-    "Repeated meal searches show cached results immediately, and large result lists render more efficiently."
-  ]
+    "This update prepares more traceable recipe and price data for future meal improvements. Current meal recommendations remain unchanged.",
+    "Approved updates now receive an automatic signed Android release, with the existing update checks and installation safeguards preserved."
+  ],
+  "sourceCommit": "546bc4f9ea94458c2059f2ba2b7d03117e0a03c8",
+  "sourcePr": 17
 }
