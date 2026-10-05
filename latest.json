@@ -1,12 +1,12 @@
 {
-  "version": "0.2.5",
-  "versionCode": 7,
-  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.2.5/cravewise-v0.2.5.apk",
-  "sha256": "963818b9b28aa7db9ab933d81581b715077d37e4db4325d440bd409f8e46e8f6",
+  "version": "0.2.6",
+  "versionCode": 8,
+  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.2.6/cravewise-v0.2.6.apk",
+  "sha256": "8a71f88fa20a60ff67735083411ad0daeb7ed22c94d507b7e2918cdbdb8b4091",
   "releaseNotes": [
-    "This update prepares more traceable recipe and price data for future meal improvements. Current meal recommendations remain unchanged.",
-    "Approved updates now receive an automatic signed Android release, with the existing update checks and installation safeguards preserved."
+    "Prepare additional recipe sources and improve ingredient matching for future curated catalogs.",
+    "Current meal recommendations continue using the existing catalog."
   ],
-  "sourceCommit": "546bc4f9ea94458c2059f2ba2b7d03117e0a03c8",
-  "sourcePr": 17
+  "sourceCommit": "9a50d141eb17e31f10e12626d910340f4f195117",
+  "sourcePr": 18
 }
