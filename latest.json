@@ -1,12 +1,11 @@
 {
-  "version": "0.2.6",
-  "versionCode": 8,
-  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.2.6/cravewise-v0.2.6.apk",
-  "sha256": "8a71f88fa20a60ff67735083411ad0daeb7ed22c94d507b7e2918cdbdb8b4091",
+  "version": "0.2.7",
+  "versionCode": 9,
+  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.2.7/cravewise-v0.2.7.apk",
+  "sha256": "ec3537599f5ad9bf7e89c33b1753ac57310a95aaedf4b34e3c4b2349fe1886e0",
   "releaseNotes": [
-    "Prepare additional recipe sources and improve ingredient matching for future curated catalogs.",
-    "Current meal recommendations continue using the existing catalog."
+    "Use official Taiwan prices with safeguards against contradictory market quotes and traceable meal cost estimates."
   ],
-  "sourceCommit": "9a50d141eb17e31f10e12626d910340f4f195117",
-  "sourcePr": 18
+  "sourceCommit": "f1fa109b99749d51af6c70b4b0cc32283b13ac73",
+  "sourcePr": 20
 }
