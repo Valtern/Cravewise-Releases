@@ -1,9 +1,11 @@
 {
-  "version": "0.2.3",
-  "versionCode": 5,
-  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.2.3/cravewise-v0.2.3.apk",
-  "sha256": "e84ebb867804e7a25fce07709527f50392564f0b0369f5560d7f2c7a912b8859",
+  "version": "0.2.4",
+  "versionCode": 6,
+  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.2.4/cravewise-v0.2.4.apk",
+  "sha256": "248ab02745b2a9c742f8f9b278b8771d7725b916f5e592ac55b3a82b8be0c6c4",
   "releaseNotes": [
-    "Improved rendering efficiency during navigation and scrolling while preserving the paper texture, farm scenery and animations."
+    "A gentler approach into the farm after signing in, creating an account, or restoring your session.",
+    "Bottom navigation now blends into the farm scenery, with calmer page highlights and simpler pagination.",
+    "Repeated meal searches show cached results immediately, and large result lists render more efficiently."
   ]
 }
