@@ -1,14 +1,14 @@
 {
-  "version": "0.4.0",
-  "versionCode": 11,
-  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.4.0/cravewise-v0.4.0.apk",
-  "sha256": "a35afde479cd85f403359abcd33dcf7ad2ad01763273df06b8e7418942c86467",
+  "version": "0.5.0",
+  "versionCode": 12,
+  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.5.0/cravewise-v0.5.0.apk",
+  "sha256": "63f23afb758358d9be419b89f324909100ed2beea5eef52297929f6dc335cb97",
   "releaseNotes": [
-    "Added support for a broader reviewed pantry catalog.",
-    "Expanded official agricultural price mappings and clearly labeled standard egg estimates.",
-    "Added source and license credit for the first reviewed cookbook recipes.",
-    "Preserved budget, pantry and declared restriction checks with clearer price evidence."
+    "Expanded the pantry and recipe catalog with reviewed real cookbook recipes.",
+    "Preserved original ingredient measures and displayed unknown timing and yields honestly.",
+    "Added source and license credit and broader official food price mappings.",
+    "Kept budget, pantry, declared restrictions and ingredient exclusions deterministic."
   ],
-  "sourceCommit": "e21fe7393bb180c429bba94d58c2e6f497cc5a56",
-  "sourcePr": 22
+  "sourceCommit": "a00b2e36d52f3e5267ffe5b48e9d4a18fcd5feab",
+  "sourcePr": 23
 }
