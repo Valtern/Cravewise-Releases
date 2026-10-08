@@ -1,14 +1,15 @@
 {
-  "version": "0.5.3",
-  "versionCode": 14,
-  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.5.3/cravewise-v0.5.3.apk",
-  "sha256": "1f56e6f8a3180f4a8af12bc828b23da2b1a7a0c4d56d25e9b5ff4f42b121b7f0",
+  "version": "0.5.4",
+  "versionCode": 15,
+  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.5.4/cravewise-v0.5.4.apk",
+  "sha256": "763cc0ea3aba5433127b7b5b74ee191c62753490cb3a28910474ebae1294ea27",
   "releaseNotes": [
-    "Improve budget estimates with clearly labeled modeled Taiwan price references.",
-    "Round missing ingredient estimates upward to whole Taiwan dollars.",
-    "Show matching ingredient totals while preserving recipe portion values.",
-    "Recognize reviewed scallion names as green onion."
+    "Browse every matching recipe with previous and next result pages.",
+    "Choose No limit to explore recipes whose ingredient costs are unavailable.",
+    "Keep the selected Your needs tab highlighted while choosing restrictions.",
+    "See a softer orange outline and stronger labels on the selected navigation item.",
+    "Open long cooking instructions with less initial layout work."
   ],
-  "sourceCommit": "9ebe8d7d13b46f741908bbcaed4f4eb6e3fae4c2",
-  "sourcePr": 25
+  "sourceCommit": "181bfbf40669244b8ecaba2fb1d83f601fb82ac5",
+  "sourcePr": 27
 }
