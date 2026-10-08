@@ -1,15 +1,14 @@
 {
-  "version": "0.5.4",
-  "versionCode": 15,
-  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.5.4/cravewise-v0.5.4.apk",
-  "sha256": "763cc0ea3aba5433127b7b5b74ee191c62753490cb3a28910474ebae1294ea27",
+  "version": "0.5.5",
+  "versionCode": 16,
+  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.5.5/cravewise-v0.5.5.apk",
+  "sha256": "71445c78b79786885b7cd0eb0640cdedf20913b8117e0906cfe30dd8e1081e2d",
   "releaseNotes": [
-    "Browse every matching recipe with previous and next result pages.",
-    "Choose No limit to explore recipes whose ingredient costs are unavailable.",
-    "Keep the selected Your needs tab highlighted while choosing restrictions.",
-    "See a softer orange outline and stronger labels on the selected navigation item.",
-    "Open long cooking instructions with less initial layout work."
+    "Follow cooking methods with clearly numbered steps and readable sections.",
+    "Keep recipe warnings, preparation notes and source credits easy to find.",
+    "Browse matching recipes in one continuous list with automatic loading.",
+    "Explore 300 reviewed recipes and see clearly labeled approximate portion costs."
   ],
-  "sourceCommit": "181bfbf40669244b8ecaba2fb1d83f601fb82ac5",
-  "sourcePr": 27
+  "sourceCommit": "927178cebdfeb9247c002c20e4d102acc225dc1e",
+  "sourcePr": 28
 }
