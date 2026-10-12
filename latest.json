@@ -1,11 +1,11 @@
 {
-  "version": "0.5.7",
-  "versionCode": 18,
-  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.5.7/cravewise-v0.5.7.apk",
-  "sha256": "ff121822b61ac243db7234a64f2e8b948c18fdeaa8539d9e1908231830cc64c5",
+  "version": "0.7.0",
+  "versionCode": 19,
+  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.7.0/cravewise-v0.7.0.apk",
+  "sha256": "bcd4d6c77e63e525992e4e672ba9d7f7863b9f7ba61d0e69c7e72540781a1d79",
   "releaseNotes": [
-    "CraveWise update: Improve cooking guidance and independently evaluate Phase 1 constraints"
+    "CraveWise update: Phase 2: semantic cravings, reproducible evaluation and official mascot (0.7.0)"
   ],
-  "sourceCommit": "86314d86dffb71eb0dfc7bbe35b0625e030b3ef6",
-  "sourcePr": 30
+  "sourceCommit": "37fab929b8d176eb7cdb7fe4256a6e81fea44bc2",
+  "sourcePr": 31
 }
