@@ -1,13 +1,11 @@
 {
-  "version": "0.5.6",
-  "versionCode": 17,
-  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.5.6/cravewise-v0.5.6.apk",
-  "sha256": "57220b7b5584cb614ba01e0a4df9b65615b6820ff10c373ece4f17d55a65cc38",
+  "version": "0.5.7",
+  "versionCode": 18,
+  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.5.7/cravewise-v0.5.7.apk",
+  "sha256": "ff121822b61ac243db7234a64f2e8b948c18fdeaa8539d9e1908231830cc64c5",
   "releaseNotes": [
-    "Browse a reviewed meal catalog with clearer recipe categories.",
-    "Find seven additional recipes from a published cooking collection.",
-    "Improved budget preset layout and service reliability."
+    "CraveWise update: Improve cooking guidance and independently evaluate Phase 1 constraints"
   ],
-  "sourceCommit": "25d761c5137fed02c45e995fb6e433a03d368595",
-  "sourcePr": 29
+  "sourceCommit": "86314d86dffb71eb0dfc7bbe35b0625e030b3ef6",
+  "sourcePr": 30
 }
