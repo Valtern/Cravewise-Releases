@@ -1,11 +1,11 @@
 {
-  "version": "0.7.4",
-  "versionCode": 23,
-  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.7.4/cravewise-v0.7.4.apk",
-  "sha256": "ffae3dbc6c5536f98d3490882ddec43fa0c8c5458116da76daf2a914d01f48de",
+  "version": "0.7.5",
+  "versionCode": 24,
+  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.7.5/cravewise-v0.7.5.apk",
+  "sha256": "127fff2241e3d6cc658c018bcdf03ff08f498bfe852d78247f04def2e1aee688",
   "releaseNotes": [
-    "CraveWise update: Add opt-in source verification for complex recipe cravings"
+    "Maintenance update with additional recipe-search quality checks."
   ],
-  "sourceCommit": "3e3f0539131affdc29f77c62dd1bea0c12147b1c",
-  "sourcePr": 35
+  "sourceCommit": "a86e7cc288868f2944ca1268b269bf2297c35f2d",
+  "sourcePr": 36
 }
