@@ -1,11 +1,11 @@
 {
-  "version": "0.7.3",
-  "versionCode": 22,
-  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.7.3/cravewise-v0.7.3.apk",
-  "sha256": "f5dffc7c65d0e65cbe51af3630fb5b1140e75aa0f954a791c44f850071f4c620",
+  "version": "0.7.4",
+  "versionCode": 23,
+  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.7.4/cravewise-v0.7.4.apk",
+  "sha256": "ffae3dbc6c5536f98d3490882ddec43fa0c8c5458116da76daf2a914d01f48de",
   "releaseNotes": [
-    "CraveWise update: Research MiniLM recipe representations and retain the measured baseline"
+    "CraveWise update: Add opt-in source verification for complex recipe cravings"
   ],
-  "sourceCommit": "7bee02ca755e7fa9dada9275c199226edf181c1f",
-  "sourcePr": 34
+  "sourceCommit": "3e3f0539131affdc29f77c62dd1bea0c12147b1c",
+  "sourcePr": 35
 }
