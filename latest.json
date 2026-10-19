@@ -1,13 +1,13 @@
 {
-  "version": "0.7.1",
-  "versionCode": 20,
-  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.7.1/cravewise-v0.7.1.apk",
-  "sha256": "3b96eb12a30b3f91049069457c376b0c04d090c86884eef7c772c5184afbcaf7",
+  "version": "0.7.2",
+  "versionCode": 21,
+  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.7.2/cravewise-v0.7.2.apk",
+  "sha256": "bbe4dfe5df2b36d5cc1ce4f85672daeaf6c0e97ca609ccdec14ed59be1d6900a",
   "releaseNotes": [
-    "Discover a broader selection of reviewed recipes across meals and other cooking categories.",
-    "Browse recipes five at a time with clear numbered page navigation.",
-    "Follow clearer cooking steps and see how categories and budget limits affect your results."
+    "Discover a broader selection of Japanese, Korean and Chinese recipes with clear cooking steps and source credits.",
+    "Keep the nearest craving matches in order when no close match is available.",
+    "Browse five recipes per page and see how category, pantry and budget affect your choices."
   ],
-  "sourceCommit": "97af74a3a2c72b5289cb36594766748c5d59f825",
-  "sourcePr": 32
+  "sourceCommit": "a0ec6bd31097fcd7aef6c8fb7b552ee623452f73",
+  "sourcePr": 33
 }
