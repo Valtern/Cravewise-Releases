@@ -1,11 +1,11 @@
 {
-  "version": "0.7.7",
-  "versionCode": 26,
-  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.7.7/cravewise-v0.7.7.apk",
-  "sha256": "06c73e09da0d4167aae060d36735f4dcfb4562b5fe8b182747c6ece81ee3ad71",
+  "version": "0.7.8",
+  "versionCode": 27,
+  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.7.8/cravewise-v0.7.8.apk",
+  "sha256": "b9b61cb0447347cce4a32bef2d6e4861535ef32b42cc09fec816c8119b2d17cf",
   "releaseNotes": [
-    "Improves sign-in screens and prepares email verification, password recovery and fingerprint quick login for staged activation."
+    "Fixes fingerprint-switch persistence during delayed service responses and strengthens account-security rollout safety."
   ],
-  "sourceCommit": "d79e564a8374e3fe28a0fb3101185c03bb97bc12",
-  "sourcePr": 38
+  "sourceCommit": "dcc39da7188fbe0a8a5966e8470144e1cdefe38d",
+  "sourcePr": 39
 }
