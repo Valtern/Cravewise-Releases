@@ -1,11 +1,11 @@
 {
-  "version": "0.7.8",
-  "versionCode": 27,
-  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.7.8/cravewise-v0.7.8.apk",
-  "sha256": "b9b61cb0447347cce4a32bef2d6e4861535ef32b42cc09fec816c8119b2d17cf",
+  "version": "0.7.9",
+  "versionCode": 28,
+  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.7.9/cravewise-v0.7.9.apk",
+  "sha256": "bf2b167937b208c99d076e80e93d590acca06503e05221be09b3e1a6ddbc8e2f",
   "releaseNotes": [
-    "Fixes fingerprint-switch persistence during delayed service responses and strengthens account-security rollout safety."
+    "CraveWise update: Patch study dependencies blocking main security checks"
   ],
-  "sourceCommit": "dcc39da7188fbe0a8a5966e8470144e1cdefe38d",
-  "sourcePr": 39
+  "sourceCommit": "3c6ae86304bdb31a883943bff53a334df77f53e3",
+  "sourcePr": 41
 }
