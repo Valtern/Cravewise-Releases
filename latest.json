@@ -1,11 +1,11 @@
 {
-  "version": "0.7.9",
-  "versionCode": 28,
-  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.7.9/cravewise-v0.7.9.apk",
-  "sha256": "bf2b167937b208c99d076e80e93d590acca06503e05221be09b3e1a6ddbc8e2f",
+  "version": "0.7.10",
+  "versionCode": 29,
+  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.7.10/cravewise-v0.7.10.apk",
+  "sha256": "6e1f3db48a9fff84cc1b696a24985d8803634ff09075d937a5e1242ad51b86e0",
   "releaseNotes": [
-    "CraveWise update: Patch study dependencies blocking main security checks"
+    "CraveWise update: Add opt-in source-aware CPU search in Meals"
   ],
-  "sourceCommit": "3c6ae86304bdb31a883943bff53a334df77f53e3",
-  "sourcePr": 41
+  "sourceCommit": "b7475b4e2061fbd73021d0f2794454470a4f4806",
+  "sourcePr": 43
 }
