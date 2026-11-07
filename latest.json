@@ -1,11 +1,11 @@
 {
-  "version": "0.7.11",
-  "versionCode": 30,
-  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.7.11/cravewise-v0.7.11.apk",
-  "sha256": "ffb97c05d34cf014f6f524453c8090605fdf7dc723841263786b6cd30081bee7",
+  "version": "0.7.12",
+  "versionCode": 31,
+  "apkUrl": "https://github.com/Valtern/Cravewise-Releases/releases/download/v0.7.12/cravewise-v0.7.12.apk",
+  "sha256": "c859ed85be3c182245bbf0434e99ca37a0ff3c1661d731cf450aa9ec6317dca1",
   "releaseNotes": [
-    "CraveWise update: Stabilize live Experimental search source fingerprints"
+    "CraveWise update: Speed up recipe searches by reducing database overhead"
   ],
-  "sourceCommit": "2129241daad6f7a33db25643277cd94a355d9cb0",
-  "sourcePr": 44
+  "sourceCommit": "5ff304a8d67c5fab7ced0cddf565c68e1f5c29ae",
+  "sourcePr": 45
 }
